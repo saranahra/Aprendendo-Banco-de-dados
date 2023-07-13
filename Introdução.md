@@ -1,9 +1,8 @@
-
 # Preocupações
-Segurança
-Espaço de armazenamento (dados repetidos) 
-Tempo de busca
-Otimização do banco de dados – normalização
+- Segurança
+- Espaço de armazenamento (dados repetidos) 
+- Tempo de busca
+- Otimização do banco de dados – normalização
 
 # Banco de dados relacional (RDBMS – sistema de gerenciamento de banco de dados relacionais) 
 - Armazena e fornece acesso a pontos de dados relacionados entre si.
